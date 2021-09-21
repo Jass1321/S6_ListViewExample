@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S6_ListViewExample.MainPage">
+
+    <StackLayout>
+        <StackLayout>
+            <Button x:Name="Item14" Text="List View Source" CharacterSpacing="5"/>
+        </StackLayout>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="20" Padding="10" >
+                <Button x:Name="Item12" Text="List View Demo"/>
+                <Button x:Name="Item13" Text="List View Code"/>
+                <Button x:Name="Item15" Text="List View Group"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

@@ -33,12 +33,6 @@ namespace S6_ListViewExample {
         public DocenteList()
         {
         }
-
-
-
-
-
     }
-
     
 }
